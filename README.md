@@ -19,8 +19,8 @@ python3 -m pip install -r requirements.txt
 
 Part1:
 
-python3 assignment2.py part1 step1
-python3 assignment2.py part1 step2
+python3 logistic_regression.py part1 step1
+python3 logistic_regression.py part1 step2
 
 
 ##### LR #####
