@@ -4,6 +4,8 @@ Implementation of logistic regression from scratch.
 Both batch gradient decent and mini-batch algorithms are implemented.
 Runs the algorithm with cross validation.
 
+Info about the dataset:
+https://archive.ics.uci.edu/ml/index.php.
 
 Base Environment
 
